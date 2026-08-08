@@ -1,3 +1,4 @@
+# Hello, I'm Anish Raj just learned python and this is my first project.
 # The is just related to password strength checker.
 # password should be long and not easily to be hacked  
 
